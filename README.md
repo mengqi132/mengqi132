@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **LLM**
 
-- 📫 How to reach me **2915136369@qq.com**or**zyz6596@stu.ouc.edu.cn**
+- 📫 How to reach me **2915136369@qq.com** or **zyz6596@stu.ouc.edu.cn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
