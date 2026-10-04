@@ -8,12 +8,6 @@
 - 🌐 **Homepage: https://mengqi132.github.io** — publications, awards, and contact
 - 📫 How to reach me: **zyz5004@163.com** or **zyz6596@stu.ouc.edu.cn**
 
-<h3 align="left">Publications:</h3>
-
-- **DyPSI: Dynamic Physics Sensing via Joint Field and Sensor-Trajectory Generation** — *NeurIPS 2026*
-- **ARIADNE: A Perception-Reasoning Synergy Framework for Trustworthy Coronary Angiography Analysis** — *Journal of Imaging Informatics in Medicine*, 2026
-- **Geo-Expert: Towards Expert-Level Geological Reasoning via Parameter-Efficient Fine-Tuning** — *ICML 2026 AI for Science Workshop*
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://mengqi132.github.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Homepage-mengqi132.github.io-crimson" alt="homepage" /></a>
