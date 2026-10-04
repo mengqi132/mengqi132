@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yizhou Zhang (章一舟)</h1>
+<h1 align="center">Hi 👋, I'm Yizhou Zhang</h1>
 <h3 align="center">Researcher in Physical AI · Physics Foundation Models · Agentic RL</h3>
 
 - 🔭 I’m an incoming Ph.D. student at the **Vanke School of Public Health, Tsinghua University**, currently completing my undergraduate studies at the **School of Mathematical Sciences, Ocean University of China**
