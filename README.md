@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Yizhou Zhang</h1>
-<h3 align="center">Researcher in Physical AI · Physics Foundation Models · Agentic RL</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Newsreader&weight=600&size=26&duration=2500&pause=800&color=A6192E&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=90&lines=Hi+%F0%9F%91%8B%2C+I%27m+Yizhou+Zhang;Researcher+in+Physical+AI+%C2%B7+Physics+Foundation+Models+%C2%B7+Agentic+RL" alt="Typing SVG" />
+</div>
 
 - 🔭 I’m an incoming Ph.D. student at the **Vanke School of Public Health, Tsinghua University**, currently completing my undergraduate studies at the **School of Mathematical Sciences, Ocean University of China**
 - 🌱 My research centers on the **pretraining of physics foundation models**, with particular emphasis on representation learning and generalization across physical systems
